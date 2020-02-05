@@ -1,0 +1,23 @@
+
+body {
+	background: url(R2.png) ;
+font-size:18;
+font-family:sans;
+}
+h1{
+color:red; 
+font-size:60px;
+padding:10px;
+}
+h2{
+	color:brown;
+	font-family:roman;
+}
+
+.img{
+float:right;
+margin-left:10px;
+margin-bottom:2px;
+	width:180px;
+	height:190px;
+}
